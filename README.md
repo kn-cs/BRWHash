@@ -1,6 +1,6 @@
 ## Polynomial hashing over prime order fields
 
-This is the source code repository of the work [Polynomial hashing over prime order fields](https://www.aimsciences.org/article/doi/10.3934/amc.2024001), authored by [Sreyosi Bhattacharyya](bhattacharyya.sreyosi@gmail.com), Kaushik Nath](kaushik.nath@yahoo.in) & [Palash Sarkar](palash@isical.ac.in) of [Indian Statistical Institute, Kolkata, India](https://www.isical.ac.in).
+This is the source code repository of the work [Polynomial hashing over prime order fields](https://www.aimsciences.org/article/doi/10.3934/amc.2024001), authored by [Sreyosi Bhattacharyya](bhattacharyya.sreyosi@gmail.com), [Kaushik Nath](kaushik.nath@yahoo.in) & [Palash Sarkar](palash@isical.ac.in) of [Indian Statistical Institute, Kolkata, India](https://www.isical.ac.in).
 This work focuses on developing 64-bit assembly implementations of hash functions based on BRW polynomials over the primes 2^{127}-1 and 2^{130}-5.
 
 To report a bug or make a comment regarding the implementations please drop a mail to: [Kaushik Nath](kaushik.nath@yahoo.in).
